@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel Bernalle</h1>
+<h1 align="center">Hi!! I'm Gabriel Bernalle</h1>
 <h3 align="center">Aspiring developer and Computer Engineering student, rebuilding my skills through projects and practice.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbernalle&label=Profile%20views&color=0e75b6&style=flat" alt="gbernalle" /> </p>
