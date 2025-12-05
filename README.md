@@ -1,30 +1,60 @@
-<h1 align="center">Hi!! I'm Gabriel Bernalle</h1>
-<h3 align="center">Aspiring developer and Computer Engineering student, rebuilding my skills through projects and practice.</h3>
+# Hello, I'm Gabriel Bernalle! 👋
+### 🚀 Aspiring Data Engineer | Computer Engineering Student @ CEFET-MG
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gbernalle&label=Profile%20views&color=0e75b6&style=flat" alt="gbernalle" /> </p>
+I am a Computer Engineering student transitioning from **Full Stack/BI** to **Data Engineering**. My passion goes beyond just visualizing data; I focus on building the robust and performant architecture that makes insights possible.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gbernalle" alt="gbernalle" /></a> </p>
+Currently, I am focused on building resilient data pipelines, optimizing ingestion processes, and applying **Software Engineering principles** to the data world.
 
-- 🌱 I’m currently learning **Spring Framework, backend with Java**
+---
 
-- 👯 I’m looking to collaborate on **Software Engineering projects**
+## 🛠️ What I'm Building Now (Capstone Project)
 
-- 🤝 I’m looking for help with **Software Engineering projects**
+### 🇧🇷 End-to-End Data Pipeline: Brazilian Micro-Entrepreneurship Analysis
 
-- 📫 How to reach me **gabrielbernalle@gmail.com**
+I am developing a complete **ETL & NLP** solution to investigate the socio-economic context of micro-entrepreneurs (MEI) in Brazil. I am using unstructured social media data (Reddit) and cross-referencing it with official government statistics.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gabrielbernalle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielbernalle" height="30" width="40" /></a>
-<a href="https://medium.com/@gbernalle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gbernalle" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gabrielbernalle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gabrielbernalle" height="30" width="40" /></a>
-</p>
+**Architecture & Highlights:**
+* **Ingestion (Bronze Layer):** Developed a high-performance asynchronous extractor in **Python** (`concurrent.futures`) to consume the Reddit API.
+    * *Result:* **8x** speed optimization in data collection compared to sequential methods.
+* **Orchestration:** Managing complex data flows using **Mage-AI**.
+* **Transformation & NLP (Silver Layer):** Semantic cleaning and topic classification using **BERT** models (Hugging Face) for Sentiment Analysis and Zero-Shot Classification.
+* **Infrastructure:** Fully containerized environment with **Docker**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+[🔗 Check out the project code here](https://github.com/gbernalle/mei-sentiment-analysis-reddit)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gbernalle&show_icons=true&locale=en&layout=compact" alt="gbernalle" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gbernalle&show_icons=true&locale=en" alt="gbernalle" /></p>
+## 💼 Real-World Experience & Impact
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gbernalle&" alt="gbernalle" /></p>
+While seeking my first official role as a Junior Data Engineer, I already apply performance engineering in the corporate world:
+
+* **ArcelorMittal Brasil (Analytics Intern):** Reduced the runtime of a critical data collection process from **8 minutes to 1 minute** (800% gain) by implementing parallelism and multithreading in Python.
+* **Teknisa (Full Stack Intern):** Optimized complex **SQL** queries in CRM modules, significantly reducing database load and response times.
+
+---
+
+## 💻 Tech Arsenal
+
+**Data Engineering & Back-end:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MageAI](https://img.shields.io/badge/Mage_AI-FFCC00?style=for-the-badge&logo=magic&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+**Infrastructure & Tools:**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Visualization & Business:**
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 📫 Let's Chat?
+
+I am open to opportunities as a **Junior Data Engineer** or **Analytics Engineer**. If you are looking for someone who combines a solid software engineering foundation with a passion for data, hit me up!
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbernalle/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielbbmatozinhos@gmail.com)
