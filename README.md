@@ -57,4 +57,6 @@ While seeking my first official role as a Junior Data Engineer, I already apply 
 I am open to opportunities as a **Junior Data Engineer** or **Analytics Engineer**. If you are looking for someone who combines a solid software engineering foundation with a passion for data, hit me up!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbernalle/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielbbmatozinhos@gmail.com)
+<a href="mailto:gabrielbbmatozinhos@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
