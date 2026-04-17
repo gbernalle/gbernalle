@@ -14,12 +14,12 @@ Currently, I specialize in architecting end-to-end ELT/ETL flows, leveraging **P
 I architected a complete **ELT & NLP** production-grade solution to investigate the socio-economic context of micro-entrepreneurs in Brazil. The project processes massive unstructured social media data and cross-references it with official government indicators (IBGE, Central Bank).
 
 **Architecture & Engineering Highlights:**
-* [cite_start]**Ingestion (Bronze Layer):** Engineered a high-performance asynchronous extractor in **Python** for API consumption[cite: 5, 12, 122].
-    * [cite_start]*Impact:* **8x speed optimization** compared to sequential methods[cite: 6, 12, 21].
-* [cite_start]**Orchestration:** Managing complex data workflows and scheduling using **Mage-AI**[cite: 5, 11, 13, 116].
-* [cite_start]**Transformation & NLP (Silver Layer):** Implementing semantic cleaning and topic modeling using **Hugging Face (BERTimbau)** for Zero-Shot Classification and Sentiment Analysis[cite: 14, 129, 130, 135].
-* [cite_start]**Infrastructure:** Fully containerized environment using **Docker** for reproducibility and scale[cite: 7, 15, 118].
-* [cite_start]**Analytics Engineering (Gold Layer):** Dimensional modeling in **BigQuery** with visualization in **Looker Studio**[cite: 143, 144, 154].
+*  **Ingestion (Bronze Layer):** Engineered a high-performance asynchronous extractor in **Python** for API consumption.
+    * *Impact:* **8x speed optimization** compared to sequential methods.
+* **Orchestration:** Managing complex data workflows and scheduling using Mage-AI.
+* **Transformation & NLP (Silver Layer):** Implementing semantic cleaning and topic modeling using Hugging Face (BERTimbau) for Zero-Shot Classification and Sentiment Analysis.
+* **Infrastructure:** Fully containerized environment using Docker for reproducibility and scale.
+* **Analytics Engineering (Gold Layer):** Dimensional modeling in BigQuery with visualization in Looker Studio.
 
 [🔗 Explore the Architecture & Code](https://github.com/gbernalle/mei-sentiment-analysis-reddit)
 
@@ -29,9 +29,9 @@ I architected a complete **ELT & NLP** production-grade solution to investigate 
 
 I apply performance engineering and architectural best practices to solve complex corporate challenges:
 
-* [cite_start]**Performance Tuning (ArcelorMittal):** Reduced critical data ingestion runtime from **8 minutes to 60 seconds** (800% gain) by implementing parallelism and multithreading in Python[cite: 6, 21].
-* [cite_start]**Database Optimization (Teknisa):** Refactored complex **Oracle SQL** queries in SaaS CRM modules, significantly reducing database load and improving response times[cite: 24, 262].
-* [cite_start]**Systems Reliability (ArcelorMittal Sistemas):** Ensuring high-availability for financial systems (Payment Hub) through automated unit testing in **C#/.NET**[cite: 18, 150].
+* **Performance Tuning (ArcelorMittal):** Reduced critical data ingestion runtime from 8 minutes to 60 seconds by implementing parallelism and multithreading in Python.
+* **Database Optimization (Teknisa):** Refactored complex Oracle SQL queries in SaaS CRM modules, significantly reducing database load and improving response times.
+* **Systems Reliability (ArcelorMittal Sistemas):** Ensuring high-availability for financial systems (Payment Hub) through automated unit testing in C#/.NET.
 
 ---
 
