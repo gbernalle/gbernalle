@@ -1,9 +1,9 @@
 # Hello, I'm Gabriel Bernalle! 👋
 ### 🏗️ Analytics Engineer | Data Engineering & Architecture
 
-I build high-performance data products and scalable architectures that bridge the gap between raw data and business value. With a solid foundation in **Software Engineering** and **Data Science**, I focus on engineering resilient pipelines, optimizing complex SQL environments, and implementing modern data stack solutions.
+I build high-performance data products and scalable architectures that bridge the gap between raw data and business value. With a solid foundation in Software Engineering and Data Science, I focus on engineering resilient pipelines, optimizing complex SQL environments, and implementing modern data stack solutions.
 
-Currently, I specialize in architecting end-to-end ELT/ETL flows, leveraging **Python (Async/Multithreading)** and **NLP** to transform unstructured noise into actionable intelligence.
+Currently, I specialize in architecting end-to-end ELT/ETL flows, leveraging Python and NLP to transform unstructured noise into actionable intelligence.
 
 ---
 
@@ -11,7 +11,7 @@ Currently, I specialize in architecting end-to-end ELT/ETL flows, leveraging **P
 
 ### 🇧🇷 End-to-End Data Pipeline: Brazilian Micro-Entrepreneurship Analysis
 
-I architected a complete **ELT & NLP** production-grade solution to investigate the socio-economic context of micro-entrepreneurs in Brazil. The project processes massive unstructured social media data and cross-references it with official government indicators (IBGE, Central Bank).
+I architected a complete ELT & NLP production-grade solution to investigate the socio-economic context of micro-entrepreneurs in Brazil. The project processes massive unstructured social media data and cross-references it with official government indicators (IBGE, Central Bank).
 
 **Architecture & Engineering Highlights:**
 *  **Ingestion (Bronze Layer):** Engineered a high-performance asynchronous extractor in **Python** for API consumption.
